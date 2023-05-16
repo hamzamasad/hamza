@@ -1,17 +1,15 @@
-div{
-    /* height: 200px;
-    width: 200px; */
-    /* overflow: visible; */
-    /*قيمتها الافتراضيه هكذا وما بتغير اشي ومعناه ان الاشي الي بظهر خارج الديف رح يبين عادي */
-    /* overflow: hidden; */
-    /*معناها اي محتوى بخرج عن الديف بدي ياه يختفي وما يبين*/
-    /* overflow: scroll; */
-    /*بيظهرلي شريط للسحب للاسفلا واليمين واليسار*/
-    /* overflow: auto; */
-    /*شريط للاسفل والاعلى فقط(هي تقوم بالتنسيق حسب الحاجة والمحتوى) */
+H1{
+    color: chocolate;
+    font-family: Cursive;
+    font-size: 25px;
     text-align: center;
-    margin-top:10% ;
-    color: blue;
-    font-size: 100px;
-
+}
+h2{
+    color: burlywood;
+    font-family: cursive;
+    font-size: 20px;
+    text-align: center;
+}
+img{
+    margin-left: 31%;
 }
