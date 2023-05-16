@@ -1,15 +1,10 @@
-H1{
-    color: chocolate;
-    font-family: Cursive;
-    font-size: 25px;
-    text-align: center;
+h1{
+   color: chocolate;
+   text-align: center;
+   
 }
 h2{
     color: burlywood;
-    font-family: cursive;
-    font-size: 20px;
     text-align: center;
-}
-img{
-    margin-left: 31%;
+
 }
