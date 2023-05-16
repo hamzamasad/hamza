@@ -10,7 +10,8 @@ div{
     /* overflow: auto; */
     /*شريط للاسفل والاعلى فقط(هي تقوم بالتنسيق حسب الحاجة والمحتوى) */
     text-align: center;
-    margin-top:25% ;
+    margin-top:10% ;
     color: blue;
+    font-size: 100px;
 
 }
